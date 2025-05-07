@@ -14,7 +14,7 @@ This project aims to transform Adventure Works' raw sales data into meaningful i
 
 ## Files Included
 - `.pbix` file: Full Power BI dashboard.
-- `.pdf` file: (Optional) Key screenshots and dashboard summary.
+- `.pdf` file: Key screenshots and dashboard summary.
 
 ## Sample Insights
 - Sales revenue peaked significantly in 2022.
