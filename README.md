@@ -22,7 +22,7 @@ This project aims to transform Adventure Works' raw sales data into meaningful i
 - Top 5 resellers accounted for nearly half of total revenue.
 
 ## Preview
-*(Optional: Insert dashboard screenshots here later.)*
+https://github.com/dubey-7/AdventureWorks-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png
 
 ## How to View
 - Download the `.pbix` file.
@@ -31,6 +31,4 @@ This project aims to transform Adventure Works' raw sales data into meaningful i
 ---
 
 ✅ Project Completed: May 2025  
-✅ Client Focus: Adventure Works (Retail Sector)
-
 ✅ Client Focus: Adventure Works (Retail Sector)
