@@ -1,34 +1,72 @@
-# Adventure Works Sales Dashboard – Power BI
+# Adventure Works Sales Analytics Dashboard | Power BI
 
-## Objective
-After the success of the Global Superstore dashboard, my expertise in building insightful and actionable visualizations gained significant recognition. Adventure Works, a leading retail giant, approached me to develop a comprehensive dashboard to enhance their data analytics and reporting capabilities.
+An interactive Power BI dashboard designed to analyze sales performance, profitability, product trends, and reseller contributions from 2020 to 2022.
 
-This project aims to transform Adventure Works' raw sales data into meaningful insights, helping the company make informed business decisions and stay competitive in the retail industry.
+## Project Overview
 
-## Project Highlights
-- Analyzed sales, cost, and reseller performance data from 2020 to 2022.
-- Developed KPIs such as Total Sales Amount, Total Cost, and Profit.
-- Created dynamic dashboards with interactive filters and slicers.
-- Highlighted top-performing products and resellers.
-- Identified trends, patterns, and growth opportunities.
+This project uses Power BI to transform Adventure Works sales data into meaningful business insights. The dashboard provides an overview of key performance indicators (KPIs), sales trends, and reseller performance to support data-driven decision-making.
 
-## Files Included
-- `.pbix` file: Full Power BI dashboard.
-- `.pdf` file: Key screenshots and dashboard summary.
+## Objectives
 
-## Sample Insights
-- Sales revenue peaked significantly in 2022.
-- Accessories and bikes contributed to the highest profit margins.
-- Top 5 resellers accounted for nearly half of total revenue.
+- Analyze sales and cost performance from 2020 to 2022.
+- Track key metrics such as Total Sales, Total Cost, and Profit.
+- Identify top-performing products and resellers.
+- Explore sales trends and profitability patterns.
+- Enable interactive analysis through filters and slicers.
 
-## Preview
-https://github.com/dubey-7/AdventureWorks-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png
+## Dashboard Preview
 
-## How to View
-- Download the `.pbix` file.
-- Open it using Power BI Desktop (available for free from Microsoft).
+![Adventure Works Dashboard Slideshow](AdventureWorks_Dashboard_Slideshow.gif)
+
+## Key Features
+
+- **KPI Analysis:** Monitor sales, cost, and profit.
+- **Sales Trends:** Compare performance across the reporting period.
+- **Product Analysis:** Explore product performance and profitability.
+- **Reseller Analysis:** Identify leading resellers and their contribution to revenue.
+- **Interactive Dashboard:** Use slicers and filters to explore the data.
+
+## Key Insights
+
+- Sales revenue peaked in 2022 during the analyzed period.
+- Bikes and accessories were among the key contributors to profitability.
+- The top five resellers accounted for nearly half of total revenue in the analyzed dataset.
+
+*Insights are based on the analysis performed in this project.*
+
+## Tools & Technologies
+
+- **Power BI Desktop** — Dashboard development and visualization
+- **DAX** — KPI calculations and measures
+- **Data Analytics** — Trend analysis, profitability analysis, and performance reporting
+
+## Repository Files
+
+| File | Description |
+|---|---|
+| `AdventureWorks_Dashboard_Slideshow.gif` | Animated dashboard preview |
+| `AdventureWorks_Sales_Analytics.pbix` | Interactive Power BI dashboard |
+| `AdventureWorks_Sales_Analytics.pdf` | PDF report containing dashboard pages and summaries |
+| `README.md` | Project documentation |
+
+## How to View the Dashboard
+
+1. Download `AdventureWorks_Sales_Analytics.pbix` from this repository.
+2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Open the downloaded `.pbix` file.
+4. Explore the report using the available filters and slicers.
+
+To view the report without opening Power BI, download `AdventureWorks_Sales_Analytics.pdf`.
+
+## Project Information
+
+- **Project:** Adventure Works Sales Analytics
+- **Category:** Data Analytics & Business Intelligence
+- **Domain:** Retail Sales
+- **Reporting Period:** 2020–2022
+- **Tool:** Microsoft Power BI
+- **Completed:** May 2025
 
 ---
 
-✅ Project Completed: May 2025  
-✅ Client Focus: Adventure Works (Retail Sector)
+*This project demonstrates practical skills in data visualization, KPI reporting, and business performance analysis.*
